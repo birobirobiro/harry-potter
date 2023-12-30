@@ -11,7 +11,7 @@ export default async function Home() {
 
   return (
     <main className="w-full h-full flex flex-col items-center p-20 justify-center gap-10">
-      <h1 className="text-9xl font-harry mb-4 text-center text-yellow-700">
+      <h1 className="lg:text-9xl text-4xl font-harry mb-4 text-center text-yellow-700">
         Harry Potter Characters
       </h1>
 
